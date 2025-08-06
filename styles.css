@@ -5,3 +5,11 @@
     margin-top: 20px;
     background-color: #ba5c0f;
 }
+
+#styled-paragraph{
+    font-size: 1.2em;
+    color: #555;
+    line-height: 1.5;
+    margin: 20px;
+    background-color: #ba5c0f;
+}
