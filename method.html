@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Method Documentation</title>
+    </head>
+    <body>
+        <h1>Method Documentation</h1>
+        <!--request the data to presenet url and default is "get"-->
+        <form>
+            <label> Name:
+                <input name="submitted-name" autocomplete="name">
+            </label>
+            <button>Save</button>
+        </form>
+        <hr>
+        <!-- use the post to form-->
+        <form method="post">
+            <label>
+                Name:<input name="submitted-name" autocomplete="name">
+            </label>
+            <button>Save</button>
+        </form>
+        <hr>
+        <form method="post">
+           <fieldset>
+            <legend>Title</legend>
+            <label><input type="radio" name="radio"> select me </label>
+           </fieldset>
+        </form>
+
+        <h3> option button</h3>
+        <form action="">
+            <input type="radio" name="sex" value="male">male <br>
+            <input type="radio" name="sex" value="female">female
+        </form>
+
+        <h3>checkbox</h3>
+        <form action="">
+            <label><input type="checkbox" name = "dog service" value="groom">groom</label><br>
+        
+            <label><input type="checkbox" name = "dog service" value="walk">walk</label><br>
+            <label><input type="checkbox" name="dog hotel" value="dog hotel">dog hotel</label>
+        </form>
+
+        <h2>select</h2>
+       <select name="pets">
+        <option value="dog">dog</option>
+        <option value="cat">cat</option>
+        <option value="hamster">hamster </option>
+       </select>
+       <h2> demo</h2>
+       <form action="">
+        <select name="cars">
+        <option value="volvo">Volvo</option>
+        <option value="saab">Saab</option>
+        <option value="fiat">Fiat</option>
+        <option value="audi">Audi</option>
+        </select>
+    </form>
+    </body>
+</html>
