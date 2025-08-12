@@ -31,13 +31,15 @@ you can access this website [map guide](https://www.runoob.com/html/html-images.
 
 
 What is the MIME type
+you can access this website [map guide](https://www.runoob.com/html/html-images.html)
+
+HTML check form
+[HTML check list](https://www.runoob.com/html/html-quicklist.html)
+## html test
+[html-test](https://www.runoob.com/quiz/html-quiz.html)
 
 MIME类型（Multipurpose Internet Mail Extensions）：它是一个由两部分组成的字符串，例如 text/html、image/png、application/json 等，用于描述资源的格式。
-使用场景：type属性通常出现在<link>、<script>或<source>等标签中，用来提示浏览器资源的类型，帮助浏览器决定如何解析或处理该资源。
+使用场景：type属性通常出现在<link>、<script>或<source>等标签中，用来提示浏览器资源的类型，帮助浏览器决定如何解析或处理该资源
+## html
 
-## 图像中的映射
-'
-<map>
-<area   >
-'
-you can access this website [map guide](https://www.runoob.com/html/html-images.html)
+
